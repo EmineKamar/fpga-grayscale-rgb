@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_CTRL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FT234XD_CTRL
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_RX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FT234XD_RX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_TX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FT234XD_TX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT23XD_VD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FT234XD_VD
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sim_1/new/FT234XD_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FT234XD_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

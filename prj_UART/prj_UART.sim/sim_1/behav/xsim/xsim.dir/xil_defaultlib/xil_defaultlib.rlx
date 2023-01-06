@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sim_1/new/FT234XD_tb.v,1672692718,verilog,,,,FT234XD_tb,,,,,,,,
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_CTRL.v,1672688824,verilog,,C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_RX.v,,FT234XD_CTRL,,,,,,,,
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_RX.v,1672692066,verilog,,C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_TX.v,,FT234XD_RX,,,,,,,,
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT234XD_TX.v,1672690645,verilog,,C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT23XD_VD.v,,FT234XD_TX,,,,,,,,
+C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sources_1/new/FT23XD_VD.v,1672688317,verilog,,C:/Users/emina/OneDrive/verilog/prj_UART/prj_UART.srcs/sim_1/new/FT234XD_tb.v,,FT234XD_VD,,,,,,,,
