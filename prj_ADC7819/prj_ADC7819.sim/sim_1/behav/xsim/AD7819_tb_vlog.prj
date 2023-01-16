@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../prj_ADC7819.srcs/sources_1/new/AD7819_CTRL.v" \
+"../../../../prj_ADC7819.srcs/sources_1/new/AD7819_VD.v" \
+"../../../../prj_ADC7819.srcs/sources_1/new/AD7819_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
